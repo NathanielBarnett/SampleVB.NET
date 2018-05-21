@@ -1,9 +1,4 @@
-﻿Imports System.Threading.Tasks
-Imports System.Text
-Imports System.Linq
-Imports System.Data.SqlClient
-Imports System.Collections.Generic
-Imports System
+﻿Imports System.Data.SqlClient
 
 Namespace SampleVBProject
     Class Program
