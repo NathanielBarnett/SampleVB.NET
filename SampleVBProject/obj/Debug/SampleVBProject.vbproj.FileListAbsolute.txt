@@ -1,0 +1,13 @@
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleProducts1DataSet.Designer.vb
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleProducts1DataSet.xsc
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleProducts1DataSet.xsd
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleProducts1DataSet.xss
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleVBProject.exe.config
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleVBProject.exe
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleVBProject.pdb
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\bin\Debug\SampleVBProject.xml
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\obj\Debug\SampleVBProject.Resources.resources
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\obj\Debug\SampleVBProject.vbproj.GenerateResource.Cache
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\obj\Debug\SampleVBProject.exe
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\obj\Debug\SampleVBProject.xml
+C:\Users\Nathaniel\Documents\Visual Studio 2015\Projects\SampleVBProject\SampleVBProject\obj\Debug\SampleVBProject.pdb

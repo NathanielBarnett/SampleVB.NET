@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SampleVBProject
+</name>
+</assembly>
+<members>
+<member name="T:SampleVBProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SampleVBProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SampleVBProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:SampleVBProject.SampleVBProject.Program.TryCreateTable">
+ <summary>
+ This method attempts to create the SampleProducts SQL Table
+ Prints an error if table already exists.
+ </summary>
+</member>
+<member name="M:SampleVBProject.SampleVBProject.Program.DisplayMenu">
+ <summary>
+ Menu organization
+ </summary>
+</member>
+<member name="M:SampleVBProject.SampleVBProject.Program.AddProduct(System.Int32,System.String,System.String)">
+ <summary>
+ Insert Product into database
+ </summary>
+ <param name="ItemNum">The Item number for the product.</param>
+ <param name="ItemName">The Product Name</param>
+ <param name="ItemDesc">The Item Description</param>
+</member>
+<member name="M:SampleVBProject.SampleVBProject.Program.UpdateProduct(System.Int32,System.String,System.String)">
+ <summary>
+ Update Product in database
+ </summary>
+ <param name="ItemNum">The Item number for the product.</param>
+ <param name="newName">The Product Name</param>
+ <param name="newDesc">The Item Description</param>
+</member>
+<member name="M:SampleVBProject.SampleVBProject.Program.RemoveProduct(System.Int32)">
+ <summary>
+ Remove Product from database
+ </summary>
+ <param name="Num">The Item number for the product.</param>
+</member>
+<member name="M:SampleVBProject.SampleVBProject.Program.FillDB">
+<summary>
+Build up database of products
+</summary>
+</member>
+<member name="M:SampleVBProject.SampleVBProject.Program.DisplayProducts">
+ <summary>
+ Read in all rows from SampleProducts1 table and store in a list.
+ </summary>
+</member>
+<member name="T:SampleVBProject.SampleProducts1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
